@@ -4,7 +4,7 @@ h2{
     white:400px;
     height:100px;
     padding:30px 90px 50px 80px;
-    border: solid 3px white;
+    border: solid 3px blue;
     margin-top: 40px;
     margin-right: 40px;
     margin-bottom: 40px;
@@ -14,7 +14,7 @@ h2{
 h3{
     background-color: darkred;
     color:bisque;
-    border: aliceblue 2px solid;
+    border:Black 2px solid;
     width: 400px;
     height: 50px;
     padding: 60px 90px 90px 60px;
@@ -35,11 +35,14 @@ div{
     border: DarkGreen 20px solid;
 }
 ul{
-    background-color:goldenrod, red, orange;
-    border: darkgoldenrod, darkred, darkorange, solid 1px;
     padding: 80px 100px 20px 30px;
     margin-top: 30px;
     margin-right: 30px;
     margin-bottom: 30px;
-    margin-left: n0px;
+    margin-left: 30px;
+}
+li{
+    background-color: gold darkred, darkorange ;
+    color: white;
+
 }
