@@ -40,6 +40,7 @@ ul{
     margin-right: 30px;
     margin-bottom: 30px;
     margin-left: 30px;
+    border: solid 1px;
 }
 li.item1{
     background-color: gold ;
